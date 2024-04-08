@@ -1,3 +1,11 @@
+# Alerta-PE 
+
+## ETE Advogado José David Gil Rodrigues
+
+### Projeto Integrador 3 
+
+### Banco dr Dados 
+
 O banco de dados foi projetado utilizando as ferramentas brModelo 3.0 para os modelos conceitual, lógico e físico, e o MySQL Workbench 8.0 para a implementação física do banco de dados.
 
 O modelo conceitual representa a estrutura do banco de dados de uma forma abstrata, sem se preocupar com detalhes de implementação. Foi nele que foram definidas as entidades principais do sistema, como `usuario`, `ocorrencia`, `processos` e `admin`, juntamente com seus atributos e relacionamentos.
